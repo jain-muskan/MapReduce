@@ -1,0 +1,8 @@
+1. Documentation: Parthiv
+2. MRSpecifications: locations would be folders to file
+			mapper and reducer is the information to the UDFs
+
+3. Reflection: Jurgen
+4. Multi-Processing & Fault-Tolarance:
+6: Partitioning: Jurgen
+7. Inter-Process Communication (Socket): 
